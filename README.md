@@ -1,3 +1,5 @@
+I am learning Javascript and CSS
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/np40/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
